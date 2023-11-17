@@ -1,0 +1,86 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "title": "War of planet apes",
+      "coverImage": "https://i.postimg.cc/d0CcD2M2/1770017166-h.webp",
+      "videoURL": "https://www.youtube.com/embed/JDcAlo8i2y8?autoplay=1"
+    },
+    {
+      "id": "losa00v5",
+      "title": "Avatar: The Last Airbender | Official Teaser | Netflix",
+      "coverImage": "https://i.postimg.cc/MKQvyHFB/AAAAQR21-Oird7-Yvem-QWl-De8-Wk8-XTFDHn-Dx-S6rr8s-SNcap8c-t-ZMwh-Uq-YCP0-MYaj-AKdf-IDfz-Fn-Gz-Jgv5-Ela2-I94f1-MG-DD8-TI1vr.jpg",
+      "videoURL": "https://www.youtube.com/embed/waJKJW_XU90?autoplay=1"
+    },
+    {
+      "id": "tY7mMkz",
+      "title": "Shōgun - Official Trailer | Hiroyuki Sanada, Cosmo Jarvis, Anna Sawai | FX",
+      "coverImage": "https://i.postimg.cc/x1MC1HdD/maxresdefault.jpg",
+      "videoURL": "https://www.youtube.com/embed/yAN5uspO_hk?autoplay=1"
+    },
+    {
+      "id": "WoRsRh4",
+      "title": "DAMSEL | Official Teaser | Netflix",
+      "coverImage": "https://images.bauerhosting.com/empire/2023/11/damsel-MBB-main.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=1440&q=80",
+      "videoURL": "https://www.youtube.com/embed/9eN_AGX8GXk?autoplay=1"
+    },
+    {
+      "id": "lp1ksnwf",
+      "title": "How to Win an Interstellar War",
+      "coverImage": "https://assets.editorial.aetnd.com/uploads/2009/10/world-war-one-gettyimages-90007631.jpg",
+      "videoURL": "https://www.youtube.com/embed/tybKnGZRwcU?autoplay=1"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "Trailer",
+      "videos": [
+        {
+          "id": "losa00v5",
+          "title": "Avatar: The Last Airbender | Official Teaser | Netflix",
+          "coverImage": "https://i.postimg.cc/MKQvyHFB/AAAAQR21-Oird7-Yvem-QWl-De8-Wk8-XTFDHn-Dx-S6rr8s-SNcap8c-t-ZMwh-Uq-YCP0-MYaj-AKdf-IDfz-Fn-Gz-Jgv5-Ela2-I94f1-MG-DD8-TI1vr.jpg",
+          "videoURL": "https://www.youtube.com/embed/waJKJW_XU90?autoplay=1"
+        },
+        {
+          "id": "1",
+          "title": "War of planet apes",
+          "coverImage": "https://i.postimg.cc/d0CcD2M2/1770017166-h.webp",
+          "videoURL": "https://www.youtube.com/embed/JDcAlo8i2y8?autoplay=1"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "war",
+      "videos": [
+        {
+          "id": "lp1ksnwf",
+          "title": "How to Win an Interstellar War",
+          "coverImage": "https://assets.editorial.aetnd.com/uploads/2009/10/world-war-one-gettyimages-90007631.jpg",
+          "videoURL": "https://www.youtube.com/embed/tybKnGZRwcU?autoplay=1"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": "lozkqubv",
+      "title": "Shōgun - Official Trailer | Hiroyuki Sanada, Cosmo Jarvis, Anna Sawai | FX",
+      "date": "15-13-2023 3:13 PM",
+      "videoURL": "https://www.youtube.com/embed/yAN5uspO_hk?autoplay=1"
+    },
+    {
+      "id": "lozkqwit",
+      "title": "DAMSEL | Official Teaser | Netflix",
+      "date": "15-13-2023 3:13 PM",
+      "videoURL": "https://www.youtube.com/embed/9eN_AGX8GXk?autoplay=1"
+    },
+    {
+      "id": "lp2tayh9",
+      "title": "War of planet apes",
+      "date": "17-35-2023 9:35 PM",
+      "videoURL": "https://www.youtube.com/embed/JDcAlo8i2y8?autoplay=1"
+    }
+  ]
+}
